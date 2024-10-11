@@ -36,11 +36,11 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
     </td>
     <td align='center' width="200">
 <!--         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="100"> -->
-	     <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
+	     <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
     </td>
 
  <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
     </td>
  <td align='center'  width="200">
         <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="100">
@@ -51,20 +51,20 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
    
   
 <td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/9042153c-74b1-407a-94d9-6e5657b3044c" >
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/9042153c-74b1-407a-94d9-6e5657b3044c" >
     </td>
 	 <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
     </td>
   <td align='center'  width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
 <td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
     </td>
 	  
   <td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/30d22378-8123-4eea-9a9d-1bfc295a2583" >
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/30d22378-8123-4eea-9a9d-1bfc295a2583" >
     </td>
 	
 
@@ -82,7 +82,7 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
     </td>
 	
  <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
+        <img src="https://github.com/mohamedabuemira/mohamedabuemira/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
     </td>
 	 <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -97,11 +97,9 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 </table>
 </p>
 <p width="100" align='center'>
-<a href="https://www.linkedin.com/in/smuhabdullah/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mabdullahuit19b@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-	<a href="https://smuhabdullah.medium.com/"><img src="https://img.shields.io/badge/-smuhabdullah-black ?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://www.instagram.com/m_abdullaharif/"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://smuhabdullah.web.app/"><img src="https://img.shields.io/badge/-/smuhabdullah-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
+<a href="https://www.linkedin.com/in/abuemira/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abuemira91@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+	<a href="https://abuemira.medium.com/"><img src="https://img.shields.io/badge/-smuhabdullah-black ?style=flat&logo=medium&logoColor=white"/></a>
  </p>
  
 <br>
@@ -123,7 +121,7 @@ specialist: financial, trade & logistics, discrete manufacturing, process manufa
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/mohamedabuemira/mohamedabuemira/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
