@@ -1,13 +1,13 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Abdullah👋<a href="#"></h1>
+    <h1> Hi there, I'm Muhammad Essam Abu Emira 👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Python+Developer;Data+Science+Enthusiast;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
-	
+<a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+ERP+Consultant;Financial+Manager;project+management;Product+Owner&center=true&width=500&height=50"></a>
+
 ### Welcome to My GitHub Profile!
 
-I'm Muhammad Abdullah, a passionate learner and aspiring Python developer. Currently, I am enrolled in the CS50 Python Development course and the Google Data Analyst course, sharpening my skills and expanding my knowledge in these areas.
+I'm mohamed Essam, a passionate learner and aspiring Python developer. Currently, I am enrolled in the CS50 Python Development course and the Google Data Analyst course, sharpening my skills and expanding my knowledge in these areas.
 
 This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
 
@@ -106,7 +106,7 @@ This README serves as an introduction to who I am and what I am currently focusi
  </h2>
 
 <p align="center">
-<a href="https://github.com/smuhabdullah">
+<a href="https://github.com/abuemira91">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smuhabdullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smuhabdullah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
