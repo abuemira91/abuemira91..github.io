@@ -7,15 +7,20 @@
 
 ### Welcome to My GitHub Profile!
 
-I'm mohamed Essam, a passionate learner and aspiring Python developer. Currently, I am enrolled in the CS50 Python Development course and the Google Data Analyst course, sharpening my skills and expanding my knowledge in these areas.
+### I'm  ERP Functional Consultant passionate about ERP/eCommerce implementations.
 
-This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
 
-- 🌱 I am currently enrolled in the CS50 Python Development course to enhance my Python programming skills and gain hands-on experience in building applications.
-- 🌱 I am also pursuing the Google Data Analyst course to learn valuable data analysis techniques and tools.
-- 👯 I am looking forward to collaborating with other developers and data enthusiasts on interesting projects.
-- 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
-- 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
+- 🔭 telescope: Most of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
+- 👀 During my free time, I enjoy working with studying accounting and studying Programming basics with Python.
+- 🌱 I’m currently learning Business Analyst and PMP.
+- 💞️ Goals: Start contributing to Open Source projects.
+- ⚡  Fun fact: I love to play games and watch Football.
+-  💻 &nbsp;Goals: Improve my technical and soft skills. 
+
+
+## About
+#I'm Odoo Techno Functional with real experience in implementing financial and  supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation. with experience implementing financial and supply chain management, sales, CRM, planning, manufacturing and HRM. Technical and business skills keep understanding customer needs and perform successful implementation.
+specialist: financial, trade & logistics, discrete manufacturing, process manufacturing, HR, Real estate.
 
  
 <h2>Tech Stack</h2>
